@@ -13,7 +13,7 @@ You may install:<br>
 The revenue , impact , dates of movies have been analysed throughout the project and <br>
 how they are interlinked with other factors.
 <br>
-![img1](https://github.com/Surajv311/Analyze-box-office-data/blob/master/img3.jpg)
-![img2](https://github.com/Surajv311/Analyze-box-office-data/blob/master/img.jpg)
-![img3](https://github.com/Surajv311/Analyze-box-office-data/blob/master/img2.jpg)
+![img1](https://github.com/Surajv311/Analyze-box-office-data/blob/master/images/img3.jpg)
+![img2](https://github.com/Surajv311/Analyze-box-office-data/blob/master/images/img.jpg)
+![img3](https://github.com/Surajv311/Analyze-box-office-data/blob/master/images/img2.jpg)
 
